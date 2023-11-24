@@ -1,0 +1,218 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background: rgb(10, 68, 102);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+
+    position: fixed;
+    width: 100%;
+    margin-bottom: 300px;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: red;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    
+
+.nav-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+.nav-item a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2rem;
+
+    transition: 0.5s;
+}
+.nav-item a:hover{
+    color: rgb(185, 14, 14);
+
+}
+.nav-item1 a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.nav-item1 a:hover{
+    color: rgb(185, 14, 14);
+
+}
+.main{
+    background: rgb(241, 238, 238);
+    height: 100%;
+    width: 100%;
+}
+
+
+.main h1{
+    margin-top: 100px;
+    color: rgb(167, 63, 4);
+    font-weight: 500;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    
+}
+
+.col1 p{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.r1{
+    padding: 50px;
+}
+.r1 img{
+    width: 500px;
+    height: 300px;
+
+}
+.card{
+    width: 503px;
+    height: 600px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.card:hover{
+    box-shadow: 2px 0px 12px 8px rgba(0,0,0,0.62);
+-webkit-box-shadow: 2px 0px 12px 8px rgba(0,0,0,0.62);
+-moz-box-shadow: 2px 0px 12px 8px rgba(0,0,0,0.62);
+}
+
+
+
+
+.card-title{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: self-end;
+    color: rgb(230, 172, 172);
+    background: rgb(9, 98, 136);
+    width: 350px;
+    
+    
+    border-color: aqua;
+    border-radius: 25px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+.btn1{
+    margin-top: 40px;
+}
+.btn2{
+    margin-top: 13px;
+}
+.btn3{
+    margin-top: 40px;
+}
+.btn4{
+    margin-top: 60px;
+}
+.btn5{
+    margin-top: 40px;
+}
+.btn6{
+    margin-top: 65px;
+}
+.btn7{
+    margin-top: 65px;
+}
+.btn8{
+    margin-top: 40px;
+}
+footer{
+    background-color: #272829;
+    padding: 15px;
+}
+.line{
+    border-top: 1px solid beige;
+}
+footer p{
+    color: aliceblue;
+}
+span{
+    color: red;
+}
+.p1{
+ margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

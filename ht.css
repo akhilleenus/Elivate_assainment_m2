@@ -1,0 +1,24 @@
+body{
+    background: rgb(248, 245, 245);
+}
+h1{
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    color: darkblue;
+}
+h2{
+    color: blue;
+}
+li{
+    color: rgb(78, 18, 18);
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+p{
+    color: rgb(59, 6, 6);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
